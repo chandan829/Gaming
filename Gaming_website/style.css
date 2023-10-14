@@ -1,0 +1,2024 @@
+.homepage,
+.homepage * {
+  box-sizing: border-box;
+}
+.homepage {
+  background: #040d17;
+  width: 1404px;
+  height: 5731px;
+  position: relative;
+  overflow: hidden;
+}
+.website-banner {
+  width: 1440px;
+  height: 783px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.banner-bg {
+  width: 1440px;
+  height: 783px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.bg-mask {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-13 {
+  background: linear-gradient(
+    to left,
+    rgba(1, 10, 17, 0.96),
+    rgba(1, 10, 17, 0.96)
+  );
+  width: 1440px;
+  height: 783px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.img {
+  background: linear-gradient(
+    to left,
+    rgba(1, 10, 17, 0.96),
+    rgba(1, 10, 17, 0.96)
+  );
+  width: 1798px;
+  height: 977px;
+  position: absolute;
+  left: -179px;
+  top: -97px;
+}
+.ellipse-1 {
+  background: rgba(63, 210, 236, 0.3);
+  border-radius: 50%;
+  width: 734px;
+  height: 734px;
+  position: absolute;
+  left: 835px;
+  top: -343px;
+  filter: blur(250px);
+}
+.ellipse-2 {
+  background: rgba(63, 210, 236, 0.3);
+  border-radius: 50%;
+  width: 734px;
+  height: 734px;
+  position: absolute;
+  left: 1px;
+  top: 371px;
+  filter: blur(250px);
+}
+.banner-t-grp-1 {
+  width: 570px;
+  height: 150px;
+  position: absolute;
+  left: 135px;
+  top: 333px;
+  overflow: hidden;
+}
+.banner-t-1 {
+  width: 211px;
+  height: 60px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.welcome {
+  color: #ffffff;
+  text-align: left;
+  font: 600 48px "Oxanium", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.banner-t-2 {
+  width: 49px;
+  height: 60px;
+  position: absolute;
+  left: 221.64px;
+  top: 0px;
+  overflow: hidden;
+}
+.to {
+  color: #ffffff;
+  text-align: left;
+  font: 600 48px "Oxanium", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.banner-t-3 {
+  width: 76px;
+  height: 60px;
+  position: absolute;
+  left: 281.25px;
+  top: 0px;
+  overflow: hidden;
+}
+.the {
+  color: #ffffff;
+  text-align: left;
+  font: 600 48px "Oxanium", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.banner-t-4 {
+  width: 173px;
+  height: 60px;
+  position: absolute;
+  left: 368.78px;
+  top: 0px;
+  overflow: hidden;
+}
+.esports {
+  color: #00eebd;
+  text-align: left;
+  font: 570 47px "Oxanium", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.banner-t-6 {
+  width: 329px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 70px;
+  overflow: hidden;
+}
+.multiverse-t-ani-1 {
+  width: 329px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.multiverse {
+  color: #ffffff;
+  text-align: left;
+  font: 700 64px "Oxanium", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.learn-more-btn-1 {
+  position: absolute;
+  inset: 0;
+}
+.btn-shape {
+  position: absolute;
+  left: 135px;
+  top: 523px;
+  overflow: visible;
+}
+.join-tournament {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: calc(50% - 540px);
+  top: calc(50% - -150.5px);
+}
+.gaming-showcase-a-f-1 {
+  width: 570px;
+  height: 672px;
+  position: absolute;
+  left: 735px;
+  top: 200px;
+  overflow: hidden;
+}
+.games-showcase-slider-1 {
+  width: 570px;
+  height: 672px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-14 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-22 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 0px;
+  top: 1404px;
+}
+.rectangle-16 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 0px;
+  top: 351px;
+}
+.rectangle-24 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 0px;
+  top: 1755px;
+}
+.rectangle-18 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 0px;
+  top: 702px;
+}
+.rectangle-20 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 0px;
+  top: 1053px;
+}
+.rectangle-17 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 300px;
+  top: 378px;
+}
+.rectangle-25 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 300px;
+  top: 1782px;
+}
+.rectangle-19 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 300px;
+  top: 729px;
+}
+.rectangle-21 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 300px;
+  top: 1080px;
+}
+.rectangle-15 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 300px;
+  top: 27px;
+}
+.rectangle-23 {
+  border-radius: 10px;
+  width: 270px;
+  height: 294px;
+  position: absolute;
+  left: 300px;
+  top: 1431px;
+}
+.nav-links-cont-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 135px;
+  top: 70px;
+  overflow: hidden;
+}
+.nav-link-cont-f-1 {
+  flex-shrink: 0;
+  width: 125px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.nav-link-1 {
+  width: 125px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.add-you-nav-link-here {
+  color: #ffffff;
+  text-align: left;
+  font: 600 16px "Oxanium", sans-serif;
+  position: absolute;
+  left: 1px;
+  top: 0px;
+}
+.line {
+  background: #ffffff;
+  width: 8px;
+  height: 2px;
+  position: absolute;
+  left: -13px;
+  top: 8px;
+}
+.nav-link-cont-f-2 {
+  flex-shrink: 0;
+  width: 89px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.nav-link-2 {
+  width: 89px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.nav-link-cont-f-3 {
+  flex-shrink: 0;
+  width: 125px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.nav-link-3 {
+  width: 125px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.nav-links-cont-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 886px;
+  top: 70px;
+  overflow: hidden;
+}
+.nav-link-cont-f-4 {
+  flex-shrink: 0;
+  width: 82px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.nav-link-12 {
+  width: 82px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.nav-link-cont-f-5 {
+  flex-shrink: 0;
+  width: 50px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.nav-link-22 {
+  width: 50px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.nav-link-cont-f-6 {
+  flex-shrink: 0;
+  width: 113px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.nav-link-32 {
+  width: 113px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.image-38 {
+  width: 130px;
+  height: 100px;
+  position: absolute;
+  left: calc(50% - 65px);
+  top: calc(50% - 2835.5px);
+}
+.section-heading-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 86px);
+  top: 943px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font: 700 40px "Oxanium", sans-serif;
+  position: relative;
+}
+.rectangle-27 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.s-3 {
+  width: 1170px;
+  height: 980px;
+  position: absolute;
+  left: 135px;
+  top: 1636px;
+}
+.section-heading-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 127px);
+  top: 0px;
+}
+.tournaments {
+  color: #ffffff;
+  text-align: left;
+  font: 700 40px "Oxanium", sans-serif;
+  position: relative;
+}
+.rectangle-272 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.card-img-content-1 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 138px;
+}
+.card-img {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+  border-radius: 10px 10px 0px 0px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 194px;
+  position: relative;
+}
+.card-contents-grp-1 {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.item-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.cs-go-global-gaming-league {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+._10-sept-2023-14-00-pm-ist {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.item-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.card-info-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.play-mode {
+  color: var(--bodytextc-1, #f5f5f5);
+  text-align: left;
+  font: 400 14px "Oxanium", sans-serif;
+  position: relative;
+}
+._5-v-5 {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+.card-info-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.platform {
+  color: var(--bodytextc-1, #f5f5f5);
+  text-align: left;
+  font: 400 14px "Oxanium", sans-serif;
+  position: relative;
+}
+.pc {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+.card-info-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.prize {
+  color: var(--bodytextc-1, #f5f5f5);
+  text-align: left;
+  font: 400 14px "Oxanium", sans-serif;
+  position: relative;
+}
+._500 {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+.card-img-content-5 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 400px;
+  top: 523px;
+}
+.cs-go-ultimate-challenge {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+._21-sept-2023-16-00-pm-ist {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+._3-v-3 {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+.console {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+._150 {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+.card-img-content-2 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 400px;
+  top: 138px;
+}
+.pubg-esports-championship {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+._15-sept-2023-20-00-pm-ist {
+  color: #dedede;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+._1-v-1 {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+.mobile {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+._600 {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+.card-img-content-4 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 523px;
+}
+.call-of-duty-mobile-league {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+._21-sept-2023-20-00-pm-ist {
+  color: #dedede;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+._200 {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+.card-img-content-3 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 800px;
+  top: 138px;
+}
+.free-fire-ultimate-challenge {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+._20-sept-2023-22-00-am-ist {
+  color: #dedede;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.any {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+._50 {
+  color: #eaeaea;
+  text-align: left;
+  font: 500 16px "Oxanium", sans-serif;
+  position: relative;
+}
+.card-img-content-6 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 800px;
+  top: 523px;
+}
+.overwatch-league-tournament {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+._25-sept-2023-21-00-am-ist {
+  color: #dedede;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  position: relative;
+  align-self: stretch;
+}
+.learn-more-btn-2 {
+  position: absolute;
+  inset: 0;
+}
+.btn-shape2 {
+  position: absolute;
+  left: 495px;
+  top: 926px;
+  overflow: visible;
+}
+.view-more {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: calc(50% - 45px);
+  top: 942px;
+}
+.s-2-cont-grp-1 {
+  width: 1100px;
+  height: 395px;
+  position: absolute;
+  left: calc(50% - 550px);
+  top: 1081px;
+}
+.mask-group {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.he-is-a-professional-esports-gamer-who-competes-in-the-game-dota-2-he-is-the-carry-and-star-player-of-the-team-evil-geniuses-one-of-the-most-successful-and-popular-teams-in-the-world-he-is-known-for-his-incredible-mechanical-skills-game-sense-and-versatility-he-can-play-any-hero-and-any-role-and-often-surprises-his-opponents-with-his-unconventional-picks-and-builds {
+  color: var(--bodytextc-1, #f5f5f5);
+  text-align: left;
+  font: 400 16px/175% "Inter", sans-serif;
+  position: absolute;
+  left: 450px;
+  top: 147px;
+  width: 650px;
+}
+.btn-shape3 {
+  position: absolute;
+  left: 450px;
+  top: 319px;
+  overflow: visible;
+}
+.learn-more {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: calc(50% - 55px);
+  top: 335px;
+}
+.info-s-grp-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 650px;
+  position: absolute;
+  left: 450px;
+  top: 23px;
+}
+.info-f-1 {
+  flex-shrink: 0;
+  width: 202px;
+  height: 92px;
+  position: relative;
+}
+.info-s-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.tournaments-played {
+  color: var(--bodytextc-1, #f5f5f5);
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 18px;
+}
+._30 {
+  color: #ffffff;
+  text-align: left;
+  font: 500 24px "Oxanium", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 43px;
+}
+.info-f-2 {
+  flex-shrink: 0;
+  width: 202px;
+  height: 92px;
+  position: relative;
+}
+.info-s-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.tournaments-won {
+  color: var(--bodytextc-1, #f5f5f5);
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 18px;
+}
+._10 {
+  color: #ffffff;
+  text-align: left;
+  font: 500 24px "Oxanium", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 43px;
+}
+.info-f-3 {
+  flex-shrink: 0;
+  width: 202px;
+  height: 92px;
+  position: relative;
+}
+.info-s-3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.awards-won {
+  color: var(--bodytextc-1, #f5f5f5);
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 18px;
+}
+._5 {
+  color: #ffffff;
+  text-align: left;
+  font: 500 24px "Oxanium", sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 43px;
+}
+.s-7 {
+  width: 1170px;
+  height: 190px;
+  position: absolute;
+  left: 135px;
+  top: 5035px;
+}
+.mask-group2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-1171275435 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 515px);
+  top: 50px;
+}
+.logo {
+  flex-shrink: 0;
+  width: 90px;
+  height: 90px;
+  position: static;
+}
+.ellipse-5 {
+  background: linear-gradient(
+    149.92deg,
+    rgba(10, 31, 53, 1) 0%,
+    rgba(4, 13, 23, 1) 100%
+  );
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.image-382 {
+  width: 58.5px;
+  height: 45px;
+  position: absolute;
+  left: 15.47px;
+  top: 22.5px;
+}
+.level-up-your-gaming-experience-join-our-exclusive-you-tube-channel-membership-today {
+  color: #ffffff;
+  text-align: left;
+  font: 600 24px/160% "Oxanium", sans-serif;
+  position: relative;
+  width: 570px;
+}
+.banner-btn-1 {
+  width: 215px;
+  height: 60px;
+  position: absolute;
+  left: calc(50% - -300px);
+  top: 65px;
+}
+.btn-shape4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.join-tournament2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: 35px;
+  top: 19px;
+}
+.s-4 {
+  width: 1170px;
+  height: 687px;
+  position: absolute;
+  left: 135px;
+  top: 2776px;
+}
+.section-heading-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 103px);
+  top: 0px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 700 40px "Oxanium", sans-serif;
+  position: relative;
+}
+.rectangle-273 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.contact-us-info-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-22807 {
+  position: absolute;
+  left: 0px;
+  top: 138px;
+  overflow: visible;
+}
+.office-location-t-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 40px;
+  top: 178px;
+}
+.frame-15 {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vuesax-linear-location {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.vuesax-linear-location2 {
+  position: absolute;
+  inset: 0;
+}
+.location {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.office-location {
+  color: #f5f5f5;
+  text-align: left;
+  font: 400 20px "Oxanium", sans-serif;
+  position: relative;
+}
+.frame-1171275436 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.spacing {
+  background: #081728;
+  flex-shrink: 0;
+  width: 22px;
+  height: 8px;
+  position: relative;
+}
+._3rd-floor-green-park-bengaluru {
+  color: #eaeaea;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.office-location-t-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 40px;
+  top: 272px;
+}
+.vuesax-linear-call {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.vuesax-linear-call2 {
+  position: absolute;
+  inset: 0;
+}
+.call {
+  width: 24px;
+  height: 24px;
+  position: static;
+}
+.call2 {
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  overflow: visible;
+}
+.vector5 {
+  opacity: 0;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.contact-no {
+  color: #f5f5f5;
+  text-align: left;
+  font: 400 20px "Oxanium", sans-serif;
+  position: relative;
+}
+._91-9876543210 {
+  color: #eaeaea;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.office-location-t-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 40px;
+  top: 366px;
+}
+.vuesax-linear-sms {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.vuesax-linear-sms2 {
+  position: absolute;
+  inset: 0;
+}
+.sms {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.email {
+  color: #f5f5f5;
+  text-align: left;
+  font: 400 20px "Oxanium", sans-serif;
+  position: relative;
+}
+.contact-gamingcompany-com {
+  color: #eaeaea;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.input-grp-1 {
+  position: absolute;
+  inset: 0;
+}
+.input-1 {
+  width: 324px;
+  height: 95px;
+  position: static;
+}
+.first-name {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: 498px;
+  top: 138px;
+}
+.rectangle-35 {
+  position: absolute;
+  left: 498px;
+  top: 177px;
+  overflow: visible;
+}
+.first-name2 {
+  color: #a7b4c3;
+  outline: none;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: absolute;
+  left: 518px;
+  top: 196px;
+}
+.input-3 {
+  width: 324px;
+  height: 95px;
+  position: static;
+}
+.email2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: 498px;
+  top: 265px;
+}
+.rectangle-39 {
+  position: absolute;
+  left: 498px;
+  top: 304px;
+  overflow: visible;
+}
+.email-address {
+  color: #a7b4c3;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  outline: none;
+  position: absolute;
+  left: 518px;
+  top: 323px;
+}
+.input-5 {
+  width: 670px;
+  height: 209px;
+  position: static;
+}
+.message {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: 498px;
+  top: 392px;
+}
+.rectangle-41 {
+  position: absolute;
+  left: 498px;
+  top: 431px;
+  overflow: visible;
+}
+.write-your-message {
+  color: #a7b4c3;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  outline: none;
+  position: absolute;
+  box-sizing: border-box;
+  resize: none;
+  left: 518px;
+  top: 451px;
+}
+.input-2 {
+  width: 324px;
+  height: 95px;
+  position: static;
+}
+.last-name {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: 846px;
+  top: 138px;
+}
+.rectangle-382 {
+  position: absolute;
+  left: 846px;
+  top: 177px;
+  overflow: visible;
+}
+.last-name2 {
+  color: #a7b4c3;
+  text-align: left;
+  outline: none;
+  position: absolute;
+  left: 866px;
+  top: 196px;
+}
+.input-4 {
+  width: 324px;
+  height: 95px;
+  position: static;
+}
+.how-did-you-hear-about-us {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: 846px;
+  top: 265px;
+}
+.rectangle-40 {
+  position: absolute;
+  left: 846px;
+  top: 304px;
+  overflow: visible;
+}
+.text-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 284px;
+  position: absolute;
+  left: 866px;
+  top: 322px;
+}
+.select-option {
+  color: #a7b4c3;
+  text-align: left;
+  outline: none;
+  background-color: #040d17;
+  width: 600px;
+  outline: none;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.vuesax-linear-arrow-down {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+  position: relative;
+}
+.vuesax-linear-arrow-down2 {
+  position: absolute;
+  inset: 0;
+}
+.arrow-down {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.learn-more-btn-3 {
+  width: 151px;
+  height: 54px;
+  position: static;
+}
+.btn-shape5 {
+  position: absolute;
+  left: 500px;
+  top: 633px;
+  overflow: visible;
+}
+.submit {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: calc(50% - 40px);
+  top: 649px;
+}
+.s-5 {
+  width: 1170px;
+  height: 579px;
+  position: absolute;
+  left: 135px;
+  top: 3623px;
+}
+.section-heading-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 86px);
+  top: 0px;
+}
+.our-shop {
+  color: #ffffff;
+  text-align: left;
+  font: 700 40px "Oxanium", sans-serif;
+  position: relative;
+}
+.rectangle-274 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.card-img-content-7 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 138px;
+}
+.card-img2 {
+  border-radius: 10px 10px 0px 0px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 194px;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.new {
+  color: #dbdbdb;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.product-price {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ultimate-gaming-pc {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px/150% "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+._1099 {
+  color: #f5f5f5;
+  text-align: left;
+  font: 700 22px/150% "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+.card-img-content-8 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 400px;
+  top: 138px;
+}
+.popular {
+  color: #dbdbdb;
+  text-align: left;
+  font: 500 16px "Inter", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.xbox-gaming-controller {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px/150% "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+._599 {
+  color: #f5f5f5;
+  text-align: left;
+  font: 700 22px/150% "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+.card-img-content-9 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 800px;
+  top: 138px;
+}
+.mechanical-gaming-keyboard {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px/150% "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+._399 {
+  color: #f5f5f5;
+  text-align: left;
+  font: 700 22px/150% "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+.learn-more-btn-4 {
+  position: absolute;
+  inset: 0;
+}
+.btn-shape6 {
+  position: absolute;
+  left: 506px;
+  top: 525px;
+  overflow: visible;
+}
+.view-all {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: calc(50% - 35px);
+  top: 541px;
+}
+.s-6 {
+  width: 1170px;
+  height: 573px;
+  position: absolute;
+  left: 135px;
+  top: 4362px;
+}
+.frame-11712754362 {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 585px);
+  top: 0px;
+}
+.section-heading-33 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.latest-news {
+  color: #ffffff;
+  text-align: left;
+  font: 700 40px "Oxanium", sans-serif;
+  position: relative;
+}
+.rectangle-275 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1170px;
+  position: relative;
+}
+.card-img-content-72 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 7px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.new2 {
+  color: #dbdbdb;
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: relative;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 4px;
+  height: 4px;
+  position: relative;
+}
+.aug-25-2023 {
+  color: #dbdbdb;
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: relative;
+}
+.pro-tips-how-to-improve-your-aim-and-reflexes-in-e-sports {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px/150% "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+.card-img-content-82 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.trending {
+  color: #dbdbdb;
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: relative;
+}
+.aug-27-2023 {
+  color: #dbdbdb;
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: relative;
+}
+.top-10-e-sports-games-to-watch-and-play-in-2023 {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px/150% "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+.card-img-content-92 {
+  background: linear-gradient(
+    133.69deg,
+    rgba(7, 22, 38, 1) 0%,
+    rgba(7, 22, 38, 0) 100%
+  );
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.popular2 {
+  color: #dbdbdb;
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: relative;
+}
+.aug-28-2023 {
+  color: #dbdbdb;
+  text-align: left;
+  font: 500 14px "Inter", sans-serif;
+  position: relative;
+}
+.the-life-of-a-professional-e-sports-gamer {
+  color: #f5f5f5;
+  text-align: left;
+  font: 500 22px/150% "Oxanium", sans-serif;
+  position: relative;
+  width: 330px;
+}
+.learn-more-btn-5 {
+  position: absolute;
+  inset: 0;
+}
+.btn-shape7 {
+  position: absolute;
+  left: 507px;
+  top: 519px;
+  overflow: visible;
+}
+.view-all2 {
+  color: #ffffff;
+  text-align: center;
+  font: 600 18px "Oxanium", sans-serif;
+  position: absolute;
+  left: calc(50% - 34px);
+  top: 535px;
+}
+.footer {
+  width: 1170px;
+  height: 396px;
+  position: absolute;
+  left: 135px;
+  top: 5305px;
+}
+.footer-bg-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.image-39 {
+  width: 130px;
+  height: 100px;
+  position: absolute;
+  left: calc(50% - 485px);
+  top: calc(50% - 158px);
+}
+.footer-nav-link-cont-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 185px);
+  top: 81px;
+}
+.footer-nav-link-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-us2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.footer-nav-link-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.sponsorships {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.footer-nav-link-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.join-us {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.footer-nav-link-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.terms-conditions {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.footer-nav-link-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.privacy-policy {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: relative;
+}
+.frame-1171275437 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - -117px);
+  top: 252px;
+}
+.facebook-negative {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.instagram-negative {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.you-tube-negative {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.lozenge {
+  position: absolute;
+  left: 0px;
+  top: 3.56px;
+  overflow: visible;
+}
+.discord-negative {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.section-heading-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 485px);
+  top: 180px;
+}
+.newsletter-signup {
+  color: #ffffff;
+  text-align: left;
+  font: 700 18px "Oxanium", sans-serif;
+  position: relative;
+}
+.rectangle-276 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.section-heading-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - -118px);
+  top: 180px;
+}
+.follow-us {
+  color: #ffffff;
+  text-align: left;
+  font: 700 18px "Oxanium", sans-serif;
+  position: relative;
+}
+.rectangle-277 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.input-btn-1 {
+  position: absolute;
+  inset: 0;
+}
+.email-input-1 {
+  width: 324px;
+  height: 48px;
+  position: static;
+}
+.rectangle-22808 {
+  position: absolute;
+  left: 100px;
+  top: 249px;
+  overflow: visible;
+}
+.enter-your-email {
+  color: #8296ab;
+  text-align: left;
+  font: 400 14px "Inter", sans-serif;
+  position: absolute;
+  outline: none;
+  left: 120px;
+  top: 264px;
+}
+.learn-more-btn-6 {
+  width: 153px;
+  height: 48px;
+  position: static;
+}
+.btn-shape8 {
+  position: absolute;
+  left: 428px;
+  top: 249px;
+  overflow: visible;
+}
+.subscribe {
+  color: #ffffff;
+  text-align: center;
+  font: 500 16px "Oxanium", sans-serif;
+  position: absolute;
+  left: calc(50% - 117px);
+  top: 263px;
+}
+._2023-ux-chandan-all-rights-reserved {
+  color: #ffffff;
+  text-align: left;
+  font: 400 16px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 347px;
+}
